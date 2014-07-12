@@ -1,0 +1,17 @@
+{
+  "name": "html-blanket",
+  "version": "0.0.1",
+  "description": "Quickly whip up a blank html page.",
+  "main": "htmlBlanket.js",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.10",
+  },
+  "repository"
+  "preferGlobal": "true",
+  "bin": {
+    "hb": "htmlBlanket.js"
+  }
+}
