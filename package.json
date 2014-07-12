@@ -1,6 +1,6 @@
 {
   "name": "html-blanket",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Quickly whip up a blank html page.",
   "main": "lib/htmlBlanket.js",
   "scripts": {
