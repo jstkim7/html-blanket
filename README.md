@@ -18,9 +18,8 @@ $ hb index
 index.html created!
 ```
 
+Result:
 ```
-index.html
-
 <!DOCTYPE html>
 <html>
 <head>
